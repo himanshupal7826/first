@@ -1,0 +1,12 @@
+.filter{
+    background-color:  blue;
+    color:blanchedalmond;
+    border-radius: 10px;
+    border: black;
+    font-size: 3rem;
+     
+}
+.fillter-content select{
+    font-size: 2rem;
+    display: inline;
+}

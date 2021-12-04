@@ -1,0 +1,33 @@
+.expense-control{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    border:1px solid #160d0d;
+    background-color: #d60c0c;
+    color: rgb(26, 212, 119);
+    border-radius: 12px;
+    justify-content: center;
+    
+    }
+.expense-control lable{
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display:block;
+
+    }
+    .expense-control input{
+        font: inherit;
+        padding: 0.5rem;
+        border-radius: 6px;
+    }
+
+
+.expense-button button{
+     
+    border: 1px;
+    border-color: aqua;
+    background-color: #440af3;
+    font-size: 2rem;
+    border-radius: 12px;
+    justify-content: end; 
+  }
